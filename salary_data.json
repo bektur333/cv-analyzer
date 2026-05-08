@@ -1,0 +1,44 @@
+{
+  "developer": {
+    "junior": {"min": 40000, "max": 65000},
+    "mid":    {"min": 65000, "max": 100000},
+    "senior": {"min": 100000, "max": 150000},
+    "lead":   {"min": 140000, "max": 200000}
+  },
+  "ai_ml": {
+    "junior": {"min": 50000, "max": 75000},
+    "mid":    {"min": 75000, "max": 120000},
+    "senior": {"min": 120000, "max": 180000},
+    "lead":   {"min": 160000, "max": 240000}
+  },
+  "devops": {
+    "junior": {"min": 45000, "max": 70000},
+    "mid":    {"min": 70000, "max": 110000},
+    "senior": {"min": 110000, "max": 160000},
+    "lead":   {"min": 150000, "max": 210000}
+  },
+  "data": {
+    "junior": {"min": 45000, "max": 70000},
+    "mid":    {"min": 70000, "max": 110000},
+    "senior": {"min": 110000, "max": 160000},
+    "lead":   {"min": 150000, "max": 200000}
+  },
+  "pm": {
+    "junior": {"min": 40000, "max": 60000},
+    "mid":    {"min": 60000, "max": 95000},
+    "senior": {"min": 95000, "max": 140000},
+    "lead":   {"min": 130000, "max": 190000}
+  },
+  "designer": {
+    "junior": {"min": 35000, "max": 55000},
+    "mid":    {"min": 55000, "max": 85000},
+    "senior": {"min": 85000, "max": 130000},
+    "lead":   {"min": 120000, "max": 170000}
+  },
+  "other": {
+    "junior": {"min": 35000, "max": 55000},
+    "mid":    {"min": 55000, "max": 85000},
+    "senior": {"min": 85000, "max": 130000},
+    "lead":   {"min": 120000, "max": 170000}
+  }
+}
